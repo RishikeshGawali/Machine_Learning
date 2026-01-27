@@ -32,7 +32,7 @@ This repository contains Machine Learning programs written in Python. The progra
 
 3. **Run Python Files**:
 
-   python filename.py
+   python Filename.py
 
 ## How it Works
 
@@ -45,11 +45,11 @@ This repository contains Machine Learning programs written in Python. The progra
 
 To run a Python program:
 
-python linear_regression.py
+python Ball_Case_Study.py
 
 To run a notebook:
 
-jupyter notebook linear_regression.ipynb
+jupyter notebook Ball_Case_Study.ipynb
 
 ## Author
 
