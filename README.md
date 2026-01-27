@@ -1,17 +1,17 @@
 # Machine_Learning
 
-This repository contains Machine Learning programs written in Python. The programs are provided in two formats: **Jupyter Notebook (.ipynb)** for interactive learning and **Python (.py)** files for direct execution. The repository is organized so that notebook files and Python scripts are stored in separate folders for better clarity and ease of use.
+This repository contains Machine Learning programs written in Python. The programs are provided in two formats: **Jupyter Notebook (.ipynb)** for interactive learning and **Python (.py)** files for direct execution. The repository is organized so that notebook files and Python codes are stored in separate folders for better clarity and ease of use.
 
 ## Features
 
 - Machine Learning programs in `.ipynb` and `.py` formats
-- Separate folders for notebooks and Python scripts
+- Separate folders for notebooks and Python programs
 - Covers basic to intermediate Machine Learning concepts
 - Useful for learning, practice, and academic purposes
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3
 - Jupyter Notebook
 - NumPy
 - Pandas
@@ -22,7 +22,7 @@ This repository contains Machine Learning programs written in Python. The progra
 
 1. **Clone the Repository** to your local machine:
    ```bash
-   https://github.com/your-username/your-repo-name
+   https://github.com/Rishikeshgawali/Machine_Learning
 ````
 
 2. **Run Jupyter Notebook Files**:
@@ -64,8 +64,4 @@ jupyter notebook linear_regression.ipynb
 
 **RISHIKESH BHARAT GAWALI**
 
-```
-
-This is **one single copy-paste README**, nothing outside it.  
-If you want **shorter**, **more formal**, or **ML-course specific**, say it once — I’ll adjust cleanly.
 ```
