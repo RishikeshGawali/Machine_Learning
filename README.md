@@ -21,23 +21,20 @@ This repository contains Machine Learning programs written in Python. The progra
 ## Usage
 
 1. **Clone the Repository** to your local machine:
-   ```bash
+   bash
    https://github.com/Rishikeshgawali/Machine_Learning
-````
 
 2. **Run Jupyter Notebook Files**:
 
-   ```bash
+   bash
    jupyter notebook
-   ```
 
    Open the required `.ipynb` file from the notebook folder.
 
 3. **Run Python Files**:
 
-   ```bash
+   bash
    python filename.py
-   ```
 
 ## How it Works
 
@@ -50,18 +47,14 @@ This repository contains Machine Learning programs written in Python. The progra
 
 To run a Python program:
 
-```bash
+bash
 python linear_regression.py
-```
 
 To run a notebook:
 
-```bash
+bash
 jupyter notebook linear_regression.ipynb
-```
 
 ## Author
 
 **RISHIKESH BHARAT GAWALI**
-
-```
